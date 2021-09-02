@@ -171,6 +171,31 @@
   font-size: 18px;
     
 }
+.card{
+  padding-top: 80px;
+}
+
+.card-title {
+  padding-top: 10px;
+}
+
+.card-text {
+  padding-top: 5px;
+  font-size: 13px;
+  color:grey;
+  word-spacing: 3px;
+}
+/* div > *:not(:last-child) {
+  display: block;
+  margin-bottom: 30px; 
+}  */
+
+.card-img-top {
+  width: 75%;
+  object-fit: cover;
+  height:250px;
+}
+
 
 
 
