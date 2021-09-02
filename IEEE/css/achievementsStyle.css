@@ -38,6 +38,8 @@
   html > .carousel, body > .carousel {
     padding-top: 125px;
   }
+
+  
   
   .carousel {
     position: relative;
@@ -167,7 +169,10 @@
 .text-heading{
   text-align: center;
   font-size: 18px;
+    
 }
+
+
 
 footer {
     margin-top: 150px;
